@@ -1,5 +1,5 @@
 # Tik Tok - Clone
-<p align="center">Projeto Web densenvolvido durante a mentoria <b>JornadaDev</b> da <b>EBAC</b>, onde foi criado um Clone do <b>TikTok</b>, utilizando o <b>Node.js</b> e <b>React</b>.</p>
+<p align="center">Projeto Web densenvolvido durante a mentoria <b>JornadaDev</b> da <b>EBAC</b>, onde foi criado um Clone do <b>TikTok</b>, utilizando o <b>Node.js</b> e <b>React</b>, com integração com o banco de dados <b>Firebase</b>.</p>
 
 <h6 align="center"> <a href="https://tiktok---clone-1bb00.web.app/"> **Link para testar o projeto **</a> </h6>
 
